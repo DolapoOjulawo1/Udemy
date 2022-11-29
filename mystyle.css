@@ -57,14 +57,29 @@ a.three {
     justify-content: space-between;
 }
 
+.last-part {
+    background-color: black;
+    color: white;
+}
 .viewing-video1{
     display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    
+    width: 100%;
+    gap: 70px;
+    justify-content: space-around;
+    color: white;
+    background-color: black;
+}
+
+ul {
+    list-style-type: none;
+}
+.first {
+    width: 20%;
 }
 
 .second{
+    width: 70%;
+    display: flex;
     justify-content: end;
 }
 
