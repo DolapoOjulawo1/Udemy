@@ -99,3 +99,8 @@ ul {
     padding-left: 50px;
 }
 
+.learn {
+    display: flex;
+    justify-content: space-around;
+    gap: 200px;
+}
