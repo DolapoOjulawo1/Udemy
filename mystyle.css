@@ -73,6 +73,7 @@ a.three {
     align-items: center;
     display: flex;
     gap: 30px;
+    padding-left: 70px;
 }
 
 .viewing-video4 {
@@ -80,5 +81,6 @@ a.three {
     align-items: center;
     display: flex;
     gap: 30px;
+    padding-left: 50px;
 }
 
